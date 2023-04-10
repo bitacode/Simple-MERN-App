@@ -4,4 +4,4 @@
 
 Watch the preview below 👇👇
 
-[![Watch the video](https://github.com/bitacode/images/blob/main/placeholder.jpg)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/bitacode/images/blob/main/placeholder.jpg)](https://www.youtube.com/watch?v=KOQdSNpgdtw)
