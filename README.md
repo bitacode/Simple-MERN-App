@@ -2,4 +2,6 @@
 
 **node_modules does not included in this repo** so you need to add it yourself
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/vt5fpE0bzSY)
+Watch the preview below 👇👇
+
+[![Watch the video](https://github.com/bitacode/images/blob/main/placeholder.jpg)](https://youtu.be/vt5fpE0bzSY)
